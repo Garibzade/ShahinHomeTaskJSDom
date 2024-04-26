@@ -1,0 +1,13 @@
+body{
+    background-color: #EADBC8;
+}
+.container-fluid {
+    background-color: #FEFAF6;
+    height: 60px;
+ text-align: center;
+
+}
+.navbar{height: 70px;}
+.btn-primary{
+    background-color:#DAC0A3 ;
+}
